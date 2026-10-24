@@ -1,0 +1,15 @@
+# Git
+.git/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Generated output files
+output/*
+!output/.gitkeep

@@ -1,0 +1,5 @@
+matplotlib
+schemdraw
+Pillow
+reportlab
+pytest
